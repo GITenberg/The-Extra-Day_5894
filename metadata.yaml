@@ -1,0 +1,32 @@
+_repo: The-Extra-Day_5894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+description: Blackwood was born in Shooter's Hill (today part of south-east London,
+  but then part of northwest Kent) and educated at Wellington College. His father
+  was a Post Office administrator who, according to Peter Penzoldt, ""though not devoid
+  of genuine good-heartedness, had appallingly narrow religious ideas"".Blackwood
+  had a varied career, farming in Canada, operating a hotel, as a newspaper reporter
+  in New York City, and, throughout his adult life, an occasional essayist for various
+  periodicals. In his late thirties, he moved back to England and started to write
+  stories of the superna.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction, English'
+- GITenberg
+title: The Extra Day
+url: http://www.gutenberg.org/ebooks/5894
