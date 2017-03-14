@@ -1,5 +1,8 @@
 _repo: The-Extra-Day_5894
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blackwood, Algernon
@@ -16,6 +19,8 @@ description: Blackwood was born in Shooter's Hill (today part of south-east Lond
   in New York City, and, throughout his adult life, an occasional essayist for various
   periodicals. In his late thirties, he moved back to England and started to write
   stories of the superna.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5894#The-Extra-Day
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
